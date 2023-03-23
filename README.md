@@ -1,2 +1,2 @@
 # University-Notes
-<h2>Questi appunti riguardano il secondo anno di università del corso di Informatica e sono stati scritti insieme a <a href="https://github.com/Rurik-D">Rurik-D</a>ringraziamo in anticipo nel caso in cui abbiate dato un occhiata oppure li abbiate utilizzati per preparare gli esami.</h2>
+<h2>Questi appunti riguardano il secondo anno di università del corso di Informatica e sono stati scritti insieme a <a href="https://github.com/Rurik-D">Rurik-D</a>. Ringraziamo in anticipo chiunque ne abbia usufruito.</h2>
